@@ -1,1 +1,2 @@
-# Projeto_final_POOW2
+# Projeto Final de Pogramação Orientada a Objetos para Web 2
+> Ana Júlia Bock Medina, SPI-UFSM
